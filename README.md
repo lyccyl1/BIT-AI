@@ -53,7 +53,8 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 如果有侵权情况，或者对开源项目中的内容有任何疑问、异议，麻烦您发送必要的信息至 lyccjshuai88@gmail.com ，我会立刻做出改正，带来不便还请您谅解！
 
-往届学长学姐资料[2019级学长](https://github.com/Robin-WZQ/BIT-AI-Review)
+往届学长学姐资料
+REFERENCE：[2019级学长](https://github.com/Robin-WZQ/BIT-AI-Review)
 ## 许可
 部分由贡献者编写的许可如下：
 

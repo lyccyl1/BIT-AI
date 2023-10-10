@@ -11,4 +11,4 @@
 
 - 没在选题里，因为我选的题要用CMU的VPN！！！！！！！！！！！
 - 生气！
-- 参考在
+- 开源在[手写体数字识别_mpi版本](https://github.com/lyccyl1/mnist-mpi)

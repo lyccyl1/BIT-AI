@@ -21,7 +21,7 @@
 
 ### 我的作业
 
-作业开源在
+作业开源在[矩阵分析大作业](https://github.com/lyccyl1/interactive-arap)
 
 我的朋友，
 祝你好运！

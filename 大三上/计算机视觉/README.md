@@ -33,3 +33,4 @@
 
 (2020)
 我也宣传一下，做人脸口罩识别，拿来识别同学还是挺好玩的！
+[人脸口罩识别](https://github.com/lyccyl1/Face-mask-recognition)

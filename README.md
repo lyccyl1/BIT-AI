@@ -1,7 +1,7 @@
 # BIT-AI
 This project is dedicated to helping students majoring in Artificial Intelligence at BIT (Beijing Institute of Technology) clear obstacles, break down information barriers, and we hope everyone can become stronger.
 
-# 北京理工大学-本科-人工智能专业-通关经验包
+# 北京理工大学-本科-人工智能专业-变得更强
 > 写在前面
 
 作为BIT本科第二届人工智能专业的学生（2020级），也算是吃螃蟹的人，踩过无数的坑，受过学长学姐帮助。故将部分自己的资料整理至此，想为学弟学妹们做点什么。目前GitHub上北理AI专业的相关资料整理较少。由于经验包时效性有限，也欢迎同届、以及后面的学弟学妹们进行补充或参与维护。希望北京理工大学人工智能专业越办越好！

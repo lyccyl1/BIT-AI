@@ -8,6 +8,8 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 作者去向中国科学院大学自动化所，还过得去。
 
+我将对学长的仓库进行2020级特色更新，部分会沿用学长的部分[2019级学长](https://github.com/Robin-WZQ/BIT-AI-Review)，侵权删除。
+
 ## 适合读者
 
 适合读者为：

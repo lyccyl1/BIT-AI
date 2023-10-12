@@ -4,7 +4,7 @@
 
 ### [# 关于保研](https://github.com/lyccyl1/BIT-AI/blob/main/其他/关于保研.md)
 
-### [# 关于夏令营](https://github.com/lyccyl1/BIT-AI/main/其他/关于夏令营.md)
+### [# 关于夏令营](https://github.com/lyccyl1/BIT-AI/blob/main/其他/关于夏令营.md)
 
 ### [# 关于AI专业，你可能关心](https://github.com/lyccyl1/BIT-AI/blob/main/其他/人工智能专业QA.md)
 

@@ -96,7 +96,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 ## 秘籍拓展通关包
 
-也许你想看看第一届的学长是如何开拓疆土，来这里看看吧👉[WZQ](https://github.com/Robin-WZQ/BIT-AI-Review)
+也许你想看看第一届的学长是如何开拓疆土，来这里看看吧👉[WZQ学长](https://github.com/Robin-WZQ/BIT-AI-Review)
 
 ## 声明
 我不对项目中信息的准确性或真实性做任何承诺，但我会对仓库中我的表述负责。

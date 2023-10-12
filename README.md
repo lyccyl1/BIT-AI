@@ -42,7 +42,8 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 - 一些你想知道的问题答案
 
-- **一个为你引路的伙伴lyc**
+- **一个为你引路的伙伴lyc** 所有你可能想要、想知道的，欢迎在ISSUE中提出or联系我```lyccjshuai88@gmail.com```
+
 
 ## 课程目录
 |  学期  |                           课程名称                           | 考核方式 | 课程性质 | 往年试卷 | 已开源大作业 |

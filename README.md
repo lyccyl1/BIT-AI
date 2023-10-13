@@ -20,7 +20,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 - 踏入AI大门，不感兴趣，苦苦支撑，没有方向
 
-- 热爱AI，希望得到神仙奇遇，有高人相助
+- 热爱AI，希望得到神仙奇遇，有高人相助（just kidding）
 
 **在这里，你都能变得更强！！**
 

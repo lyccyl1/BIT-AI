@@ -15,8 +15,9 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 我将对学长的仓库进行2020级特色更新
 
 ## 💥仓库声明💥
+我不对项目中信息的准确性或真实性做任何承诺，但我会对仓库中我的表述负责。
 
-**如果有如何内容需要我删除，请联系本人```lyccjshuai88@gmail.com```，切勿直接抄袭，助教老师肯定会看的，如果能启发你的思路，It's my pleasure**
+如果有侵权情况，或者对开源项目中的内容有任何疑问、异议，**如果有如何内容需要我删除，请联系本人```lyccjshuai88@gmail.com```，切勿直接抄袭，助教老师肯定会看的，如果能启发你的思路，It's my pleasure**
 
 ## 你可能的模样
 

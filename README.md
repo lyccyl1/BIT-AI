@@ -37,8 +37,6 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 - **🆕[增加混学功法](https://github.com/lyccyl1/BIT-AI/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
 
-
-
 ## 这里有什么？
 
 > 尽可能包含干货

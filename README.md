@@ -16,9 +16,8 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 
 ## 💥仓库声明💥
-我不对项目中信息的准确性或真实性做任何承诺，但我会对仓库中我的表述负责。
 
-如果有侵权情况，或者对开源项目中的内容有任何疑问、异议，**如果有如何内容需要我删除，请联系本人```lyccjshuai88@gmail.com```，切勿直接抄袭，助教老师肯定会看的，如果能启发你的思路，It's my pleasure**
+**如果有如何内容需要我删除，请联系本人```lyccjshuai88@gmail.com```，切勿直接抄袭，助教老师肯定会看的，如果能启发你的思路，It's my pleasure**
 
 ## 你可能的模样
 
@@ -36,7 +35,9 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 > 为了帮助大家快速浏览，仓库又多了什么东东，从10.24开始设置此模块
 
-- 🆕**[增加混学功法](https://github.com/lyccyl1/BIT-AI/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
+- **🆕[增加混学功法](https://github.com/lyccyl1/BIT-AI/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
+
+
 
 ## 这里有什么？
 
@@ -132,6 +133,12 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 也许你想参考参考其他同学的视野，[2020级好哥们🐦](https://github.com/Z-Luan/BIT-AI/)
 
+## 声明
+我不对项目中信息的准确性或真实性做任何承诺，但我会对仓库中我的表述负责。
+
+如果有侵权情况，或者对开源项目中的内容有任何疑问、异议，麻烦您发送必要的信息至```lyccjshuai88@gmail.com```，我会立刻做出改正，带来不便还请您谅解！
+
+
 ## 感谢
 
 感谢帮助我完善这个仓库的朋友们，💗💗💗
@@ -139,4 +146,4 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 ## 许可
 部分由贡献者编写的许可如下：
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/lyccyl1/BIT-AI">BIT-AI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/lyccyl1">Eason Leo</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。仓库的资源来自于用户和互联网，其正确性不作保证。

@@ -14,6 +14,12 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 我将对学长的仓库进行2020级特色更新
 
+## 版本更新公告🔥🔥
+
+> 为了帮助大家快速浏览，仓库又多了什么东东，从10.24开始设置此模块
+
+- **🆕[增加混学功法](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
+
 
 ## 💥仓库声明💥
 
@@ -31,11 +37,6 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 **在这里，你都能变得更强！！**
 
-## 版本更新公告🔥🔥
-
-> 为了帮助大家快速浏览，仓库又多了什么东东，从10.24开始设置此模块
-
-- **🆕[增加混学功法](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
 
 ## 这里有什么？
 

@@ -14,6 +14,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 我将对学长的仓库进行2020级特色更新
 
+
 ## 💥仓库声明💥
 
 **如果有如何内容需要我删除，请联系本人```lyccjshuai88@gmail.com```，切勿直接抄袭，助教老师肯定会看的，如果能启发你的思路，It's my pleasure**
@@ -29,6 +30,12 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 - 热爱AI，希望得到神仙奇遇，有高人相助（just kidding）
 
 **在这里，你都能变得更强！！**
+
+## 版本更新公告🔥🔥
+
+> 为了帮助大家快速浏览，仓库又多了什么东东，从10.24开始设置此模块
+
+- 🆕**[增加混学功法](https://github.com/lyccyl1/BIT-AI/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
 
 ## 这里有什么？
 

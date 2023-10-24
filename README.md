@@ -125,12 +125,6 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 也许你想参考参考其他同学的视野，[2020级好哥们🐦](https://github.com/Z-Luan/BIT-AI/)
 
-## 声明
-我不对项目中信息的准确性或真实性做任何承诺，但我会对仓库中我的表述负责。
-
-如果有侵权情况，或者对开源项目中的内容有任何疑问、异议，麻烦您发送必要的信息至```lyccjshuai88@gmail.com```，我会立刻做出改正，带来不便还请您谅解！
-
-
 ## 感谢
 
 感谢帮助我完善这个仓库的朋友们，💗💗💗

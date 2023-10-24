@@ -16,7 +16,7 @@
 
 ```
 # clone命令 
-git clone https://github.com/Robin-WZQ/BIT-AI-Review.git
+git clone https://github.com/lyccyl1/BIT-AI.git
 # pull更新 
 git pull
 ```
@@ -25,8 +25,3 @@ git pull
 >
 > [svn 下载 github 上的单个目录或文件](https://www.runoob.com/w3cnote/svn-co-github-dir.html)
 
-### 3. [DownGit](http://zhoudaxiaa.gitee.io/downgit/#/home)
-
-只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
-
-或者在这里下载[git clone](https://gitclone.com/)

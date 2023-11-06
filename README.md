@@ -136,6 +136,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 一些推荐的BIT项目：
 
 - [BIT-CS](https://github.com/xiabee/BIT-CS)
+
 ## 感谢
 
 感谢帮助我完善这个仓库的朋友们，💗💗💗

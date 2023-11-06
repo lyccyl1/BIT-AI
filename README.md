@@ -133,6 +133,9 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 也许你想参考参考其他同学的视野，[2020级好哥们🐦](https://github.com/Z-Luan/BIT-AI/)
 
+一些推荐的BIT项目：
+
+- [BIT-CS](https://github.com/xiabee/BIT-CS)
 ## 感谢
 
 感谢帮助我完善这个仓库的朋友们，💗💗💗

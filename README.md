@@ -18,7 +18,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 > 为了帮助大家快速浏览，仓库又多了什么东东，从2023.10.24开始设置此模块
 
-- **🆕[增加混学功法](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/混之道.md),24/10/2023**
+- **[增加保研常用网站](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/关于保研.md),4/12/2023**
 
 [历史更新记录](https://github.com/lyccyl1/BIT-AI/blob/main/其他/更新记录.md)
 

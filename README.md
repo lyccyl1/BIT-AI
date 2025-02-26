@@ -16,7 +16,11 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 
 ## 版本更新公告🔥🔥
 
-> 为了帮助大家快速浏览，仓库又多了什么东东，从2023.10.24开始设置此模块
+> 为了帮助大家快速浏览，仓库又多了什么东东
+>
+> 
+
+- **[增加🔥🔥🔥🔥保研招聘🔥🔥🔥🔥清华大学GenSI实验室，有意可联系leon_bit@163.com],26/2/2025**
 
 - **[增加保研常用网站](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/关于保研.md),4/12/2023**
 

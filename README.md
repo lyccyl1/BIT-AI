@@ -20,7 +20,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 >
 > 
 
-- **[增加面向对象课程](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/面向对象与技术与方法),15/5/2025**
+- **[增加面向对象课程](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/面向对象技术与方法),15/5/2025**
 
 - **[增加🔥🔥🔥🔥保研招聘🔥🔥🔥🔥清华大学GenSI实验室，有意可联系leon_bit@163.com],26/2/2025**
 

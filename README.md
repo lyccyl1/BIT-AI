@@ -103,7 +103,7 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 |        | [矩阵分析](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/矩阵分析) |   考试   |   必修   |      |   ✅  |
 |        | [认知科学导论](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/认知科学导论) |   考试*   |   选修   |      |      |
 |        | [随机过程](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/随机过程) |   考试   |   必修   |      |     |
-|        |[面向对象技术与方法（已补充）](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/面向对象与技术与方法)                  |   考试   |   选修   |      |      |
+|        |[面向对象技术与方法（已补充）](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/面向对象技术与方法)                  |   考试   |   选修   |      |      |
 | 大三上 | [小学期工程实训](https://github.com/lyccyl1/BIT-AI/tree/main/大三上/小学期工程实训) |   考查   |   必修   |      |   ✅  |
 |        | [并行编程实践](https://github.com/lyccyl1/BIT-AI/tree/main/大三上/并行编程实践) |   考查   |   必修   |      |     |
 |        | [强化学习](https://github.com/lyccyl1/BIT-AI/tree/main/大三上/强化学习) |   考查   |   选修   |      |      |

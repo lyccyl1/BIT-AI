@@ -20,6 +20,8 @@ This project is dedicated to helping students majoring in Artificial Intelligenc
 >
 > 
 
+- **[增加面向对象课程](https://github.com/lyccyl1/BIT-AI/tree/main/大二下/面向对象与技术与方法),15/5/2025**
+
 - **[增加🔥🔥🔥🔥保研招聘🔥🔥🔥🔥清华大学GenSI实验室，有意可联系leon_bit@163.com],26/2/2025**
 
 - **[增加保研常用网站](https://github.com/lyccyl1/BIT-AI/blob/main/一些你想知道的问题和我想传授给你的秘籍/关于保研.md),4/12/2023**
